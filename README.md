@@ -20,3 +20,4 @@ The steps included:
 * Removing styling for multiple sections that could be done at the same time
 * Remove background img from css file and putting in the html file with a semantic element
 
+After completing the cleanup the webpage is fully functional. The finished project looks like:
