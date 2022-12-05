@@ -27,3 +27,7 @@ After completing the cleanup the webpage is fully functional. The finished proje
 https://jacobduncan17.github.io/Maverick/
 
 ## Link to the github repo:
+https://github.com/JacobDuncan17/Maverick
+
+## Running the probject
+To run the project either copy and paste the webpage url. Or you can right click and view in browser on the html file within the repo.
